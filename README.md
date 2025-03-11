@@ -6,9 +6,9 @@ Welcome to the **Machine Learning Projects Repository**! This repository is a cu
 
 # List of projects
 
-1) Face Emotion Detection model
-2) Credit Card Fraud Detection model
-3) Rainfall Prediction model
-4) Cancer Cell Classification model
-5) Wine Quality Prediction model
-6) Bias Detection in news
+1) Face Emotion Detection model (Face_Emotion_Recognition.ipynb)
+2) Credit Card Fraud Detection model (ML___Credit_Card_Fraud_Detection.ipynb)
+3) Rainfall Prediction model (Rainfall_Prediction_using_Machine_Learning_Python.ipynb)
+4) Cancer Cell Classification model (ML___Cancer_cell_classification_using_Scikit_learn.ipynb)
+5) Wine Quality Prediction model (Wine_Quality_Prediction_Machine_Learning.ipynb)
+6) Bias Detection in news (Bias-Detection.ipynb)
