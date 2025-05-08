@@ -1,5 +1,9 @@
 # Machine Learning Projects Repository
 
+<p align="center">
+  <img src="https://miro.medium.com/max/2800/0*hpyUPaBF9V3Mb5T6.gif" alt="ML Head"/>
+</p>
+
 Welcome to the **Machine Learning Projects Repository**! This repository is a curated collection of diverse machine learning projects that I have worked on, showcasing practical implementations of various algorithms, techniques, and domains. Each project includes code, datasets, and documentation to help you explore and understand the concepts. For ease of understanding, the files provided are in Jupyter Notebook format.
 
 ---
