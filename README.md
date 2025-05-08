@@ -16,3 +16,5 @@ Welcome to the **Machine Learning Projects Repository**! This repository is a cu
 4) Cancer Cell Classification model (ML___Cancer_cell_classification_using_Scikit_learn.ipynb)
 5) Wine Quality Prediction model (Wine_Quality_Prediction_Machine_Learning.ipynb)
 6) Bias Detection in news (Bias-Detection.ipynb)
+
+(Link to Datasets repository : https://github.com/VoidHunter864/Datasets)
